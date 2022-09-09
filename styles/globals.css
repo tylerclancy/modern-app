@@ -4,6 +4,8 @@
 @tailwind components;
 @tailwind utilities;
 
+
+
 :root {
   --black-gradient: linear-gradient(
     144.39deg,
@@ -138,3 +140,4 @@
   background: rgba(255, 255, 255, 0.6);
   filter: blur(750px);
 }
+
